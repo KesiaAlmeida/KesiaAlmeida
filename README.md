@@ -5,6 +5,8 @@ Bem vindo ao meu GitHurb, atualmente estudo Front-end, um programa da Ford em pa
 
 ![Kesia GitHub stats](https://github-readme-stats.vercel.app/api?username=kesiaalmeida&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesiaalmeida)](https://github.com/kesiaalmeida/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
